@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazan Günindi</h1>
+            <h3 align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Ramazan-xcod3r&color=green" alt="ramazan-xcod3r" /> </h3>
+
 <h3 align="center">I'm a software developer with C#, Java, Ruby and Awk languages.I'm Also a Patika.Dev Bootcamp participant.</h3>
 
 - 🌱 I’m currently learning **Appium, Serenity, Browserstack, Blazor Server**
