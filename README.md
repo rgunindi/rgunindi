@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rgunindi](https://github.com/rgunindi)
-
 - 💬 Ask me about **GO,C#, Java, Javascript Awk, Ruby, Testing Framework**
 
 - 📫 How to reach me **codmyhesap@gmail.com**
