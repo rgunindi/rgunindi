@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramazan Günindi</h1>
             <h3 align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Ramazan-xcod3r&color=green" alt="ramazan-xcod3r" /> </h3>
 
-<h3 align="center">I'm a software developer with GO, C#, Java, JavaScript and Awk languages.</h3>
+<h3 align="center">I'm a software developer with GO, C#, Java, JavaScript and Rust languages.</h3>
 
 - 🌱 I’m currently learning several things.
 
