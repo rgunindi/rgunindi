@@ -3,15 +3,13 @@
 
 <h3 align="center">I'm a software developer with GO, C#, Java, JavaScript and Awk languages.</h3>
 
-- 🌱 I’m currently learning **microservices**
+- 🌱 I’m currently learning several things.
 
-- 💬 Ask me about **GO,C#, Java, Javascript Awk, Ruby, Testing Framework**
+- 💬 Ask me about **GO,C#, Java, Javascript, Rust, Testing Framework**
 
 - 📫 How to reach me **codmyhesap@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/rgunindi?tab=repositories](https://github.com/rgunindi?tab=repositories)
-
-- ⚡ Fun fact **I think i am Funy :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
